@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/Affordmed_Training/task6/static/css/main.dcaea652.css",
-    "main.js": "/Affordmed_Training/task6/static/js/main.57f458fc.js",
-    "static/js/453.1be20c8c.chunk.js": "/Affordmed_Training/task6/static/js/453.1be20c8c.chunk.js",
+    "main.css": "/Affordmed_Training/task6/static/css/main.7da7121d.css",
+    "main.js": "/Affordmed_Training/task6/static/js/main.db2ecfde.js",
     "index.html": "/Affordmed_Training/task6/index.html",
-    "main.dcaea652.css.map": "/Affordmed_Training/task6/static/css/main.dcaea652.css.map",
-    "main.57f458fc.js.map": "/Affordmed_Training/task6/static/js/main.57f458fc.js.map",
-    "453.1be20c8c.chunk.js.map": "/Affordmed_Training/task6/static/js/453.1be20c8c.chunk.js.map"
+    "main.7da7121d.css.map": "/Affordmed_Training/task6/static/css/main.7da7121d.css.map",
+    "main.db2ecfde.js.map": "/Affordmed_Training/task6/static/js/main.db2ecfde.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcaea652.css",
-    "static/js/main.57f458fc.js"
+    "static/css/main.7da7121d.css",
+    "static/js/main.db2ecfde.js"
   ]
 }
