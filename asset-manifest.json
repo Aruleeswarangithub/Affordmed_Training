@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Affordmed_Training/task6/static/css/main.7da7121d.css",
-    "main.js": "/Affordmed_Training/task6/static/js/main.db2ecfde.js",
-    "index.html": "/Affordmed_Training/task6/index.html",
-    "main.7da7121d.css.map": "/Affordmed_Training/task6/static/css/main.7da7121d.css.map",
-    "main.db2ecfde.js.map": "/Affordmed_Training/task6/static/js/main.db2ecfde.js.map"
+    "main.css": "/Aruleeswarangithub/Affordmed_Training/task6/static/css/main.dcaea652.css",
+    "main.js": "/Aruleeswarangithub/Affordmed_Training/task6/static/js/main.47693d7f.js",
+    "static/js/453.1be20c8c.chunk.js": "/Aruleeswarangithub/Affordmed_Training/task6/static/js/453.1be20c8c.chunk.js",
+    "index.html": "/Aruleeswarangithub/Affordmed_Training/task6/index.html",
+    "main.dcaea652.css.map": "/Aruleeswarangithub/Affordmed_Training/task6/static/css/main.dcaea652.css.map",
+    "main.47693d7f.js.map": "/Aruleeswarangithub/Affordmed_Training/task6/static/js/main.47693d7f.js.map",
+    "453.1be20c8c.chunk.js.map": "/Aruleeswarangithub/Affordmed_Training/task6/static/js/453.1be20c8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7da7121d.css",
-    "static/js/main.db2ecfde.js"
+    "static/css/main.dcaea652.css",
+    "static/js/main.47693d7f.js"
   ]
 }
