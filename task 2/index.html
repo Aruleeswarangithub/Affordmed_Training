@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: grid;
+            grid-template-rows: auto auto auto auto;
+            grid-template-columns: 1fr;
+            background-color: #f4f4f4;
+        }
+
+        .hero {
+            background: url('//') no-repeat center center/cover;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 80px 20px;
+            background-image: url('./assets/image1.jpg');
+        }
+
+        .hero h1 {
+            font-size: 40px;
+            margin: 0;
+        }
+
+        .hero p {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+
+        .btn {
+            background: #ff9800;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 50px;
+            cursor: pointer;
+            margin: 10px;
+        }
+
+        .services {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .service-box {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #ff9800;
+
+        }
+
+        .section {
+            text-align: center;
+            padding: 40px;
+        }
+
+        .values {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .value-box {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #ff9800;
+        }
+        .a{
+            width: 100%;
+        }
+        .b{
+            width: 40px;
+            height: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <h1>WE LOVE ALL PEOPLE</h1>
+        <p>Supporting communities with food, water, medical aid, and education.</p>
+        <button class="btn">Donate Now</button>
+        <button class="btn">Join Us</button>
+    </div>
+
+    <div class="services">
+        <div class="service-box">
+            <img src="./assets/image4.png" alt="food">
+            <h3>Healthy Food</h3>
+            <p>Providing nutritious meals for those in need.</p>
+        </div>
+        <div class="service-box">
+            <img src="./assets/image4.png" alt="food">
+            <h3>Pure Water</h3>
+            <p>Ensuring access to clean drinking water.</p>
+        </div>
+        <div class="service-box">
+            <img src="./assets/image4.png" alt="food">
+            <h3>Medical Facilities</h3>
+            <p>Offering healthcare support to communities.</p>
+        </div>
+        <div class="service-box">
+            <img src="./assets/image4.png" alt="food">
+            <h3>Pure Education</h3>
+            <p>Promoting quality education for all.</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <img class=a src="./assets/image5.jpg" alt="animal and man">
+        <h2>What we are doing now</h2>
+        <p>We are actively providing aid and support to underprivileged communities...</p>
+        <button class="btn">Learn More</button>
+    </div>
+
+    <div class="values">
+        <div class="value-box">
+            <img class="b" src="./assets/image3.png" alt="tick">
+            <h3>Service Beyond Self</h3>
+            <p>Commitment to selfless service.</p>
+        </div>
+        <div class="value-box">
+            <img class="b" src="./assets/image3.png" alt="tick">
+            <h3>Empowerment</h3>
+            <p>Helping individuals achieve self-sufficiency.</p>
+        </div>
+        <div class="value-box">
+            <img class="b" src="./assets/image3.png" alt="tick">
+            <h3>Accountability</h3>
+            <p>Ensuring transparency in all activities.</p>
+        </div>
+        <div class="value-box">
+            <img class="b" src="./assets/image3.png" alt="tick">
+            <h3>Sustainability</h3>
+            <p>Long-term impact through strategic initiatives.</p>
+        </div>
+        <div class="value-box">
+            <img class="b" src="./assets/image3.png" alt="tick">
+            <h3>Integrity</h3>
+            <p>Upholding ethical practices.</p>
+        </div>
+        <div class="value-box">
+            <img class="b" src="./assets/image3.png" alt="tick">
+            <h3>Transparency</h3>
+            <p>Open communication with our supporters.</p>
+        </div>
+    </div>
+</body>
+</html>
