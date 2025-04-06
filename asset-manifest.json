@@ -1,24 +1,15 @@
 {
   "files": {
-    "main.css": "/Affordmed_Training/task6/static/css/main.74b90820.chunk.css",
-    "main.js": "/Affordmed_Training/task6/static/js/main.6efc8cf4.chunk.js",
-    "main.js.map": "/Affordmed_Training/task6/static/js/main.6efc8cf4.chunk.js.map",
-    "runtime-main.js": "/Affordmed_Training/task6/static/js/runtime-main.564f7d66.js",
-    "runtime-main.js.map": "/Affordmed_Training/task6/static/js/runtime-main.564f7d66.js.map",
-    "static/js/2.ed75043b.chunk.js": "/Affordmed_Training/task6/static/js/2.ed75043b.chunk.js",
-    "static/js/2.ed75043b.chunk.js.map": "/Affordmed_Training/task6/static/js/2.ed75043b.chunk.js.map",
-    "static/js/3.e6e65acd.chunk.js": "/Affordmed_Training/task6/static/js/3.e6e65acd.chunk.js",
-    "static/js/3.e6e65acd.chunk.js.map": "/Affordmed_Training/task6/static/js/3.e6e65acd.chunk.js.map",
+    "main.css": "/Affordmed_Training/task6/static/css/main.dcaea652.css",
+    "main.js": "/Affordmed_Training/task6/static/js/main.57f458fc.js",
+    "static/js/453.1be20c8c.chunk.js": "/Affordmed_Training/task6/static/js/453.1be20c8c.chunk.js",
     "index.html": "/Affordmed_Training/task6/index.html",
-    "precache-manifest.5de7fddfd2a05be024da3824009c3be2.js": "/Affordmed_Training/task6/precache-manifest.5de7fddfd2a05be024da3824009c3be2.js",
-    "service-worker.js": "/Affordmed_Training/task6/service-worker.js",
-    "static/css/main.74b90820.chunk.css.map": "/Affordmed_Training/task6/static/css/main.74b90820.chunk.css.map",
-    "static/js/2.ed75043b.chunk.js.LICENSE.txt": "/Affordmed_Training/task6/static/js/2.ed75043b.chunk.js.LICENSE.txt"
+    "main.dcaea652.css.map": "/Affordmed_Training/task6/static/css/main.dcaea652.css.map",
+    "main.57f458fc.js.map": "/Affordmed_Training/task6/static/js/main.57f458fc.js.map",
+    "453.1be20c8c.chunk.js.map": "/Affordmed_Training/task6/static/js/453.1be20c8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.564f7d66.js",
-    "static/js/2.ed75043b.chunk.js",
-    "static/css/main.74b90820.chunk.css",
-    "static/js/main.6efc8cf4.chunk.js"
+    "static/css/main.dcaea652.css",
+    "static/js/main.57f458fc.js"
   ]
 }
